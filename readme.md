@@ -27,7 +27,7 @@ Within the range from 1-(input):
 
 - $cd build/classes/java/main
 
-- $gradle App 
+- $java App 
 
 
 
