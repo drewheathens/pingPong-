@@ -5,9 +5,9 @@
 Java console application(on terminal) that accepts input(Integer).
 
 Within the range from 1-(input):
-- if a number is divisible by 3, it will be replaced by "ping".
-- if a number is divisible by 5, it will be replaced by "pong".
-- if a  number is divisible by both 3 and 5, it will be replaced by "pingpong".  
+- if a number % 3 == o, it will be replaced by "ping".
+- if a number % 5 == 0, it will be replaced by "pong".
+- if a  number % 3 ==0 and number % 5 == 0, it will be replaced by "pingpong".  
 
 ## Prerequisites
 
@@ -33,3 +33,4 @@ Within the range from 1-(input):
 
 
 
+ 
