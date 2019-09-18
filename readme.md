@@ -11,8 +11,25 @@ Within the range from 1-(input):
 
 ## Prerequisites
 
+- Terminal
+
+- Gradle 4.4.1
+
 - openjdk version "1.8.0_222"
 
 ## Installations
 
-- clone [PingPong](https://github.com/drewheathens/ping-pong-.git).
+- Run the following on terminal to clone:
+
+- $git clone https://github.com/drewheathens/pingPong-.git .
+
+- $gradle build
+
+- $cd build/classes/java/main
+
+- $gradle App 
+
+
+
+
+
